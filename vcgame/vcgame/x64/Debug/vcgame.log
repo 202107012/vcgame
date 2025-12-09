@@ -1,0 +1,6 @@
+﻿  vcgame.cpp
+C:\Users\rogi0\source\repos\vcgame\vcgame\vcgame.cpp(178,31): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rogi0\source\repos\vcgame\vcgame\vcgame.cpp(250,62): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rogi0\source\repos\vcgame\vcgame\vcgame.cpp(310,49): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rogi0\source\repos\vcgame\vcgame\vcgame.cpp(344,45): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  vcgame.vcxproj -> C:\Users\rogi0\source\repos\vcgame\x64\Debug\vcgame.exe
